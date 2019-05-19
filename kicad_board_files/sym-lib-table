@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name zero_boot_screen-rescue)(type Legacy)(uri ${KIPRJMOD}/zero_boot_screen-rescue.lib)(options "")(descr ""))
+  (lib (name My_stuff)(type Legacy)(uri /home/facelessloser/Dropbox/kicad/my_stuff/My_stuff.lib)(options "")(descr ""))
+  (lib (name ZBS_screen-rescue)(type Legacy)(uri ${KIPRJMOD}/ZBS_screen-rescue.lib)(options "")(descr ""))
+  (lib (name thin_ZBS_screen-rescue)(type Legacy)(uri ${KIPRJMOD}/thin_ZBS_screen-rescue.lib)(options "")(descr ""))
+)
